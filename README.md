@@ -43,7 +43,7 @@ Aqui estão as tecnologias utilizadas neste projeto.
 **Para executar este projeto na sua máquina, siga as instruções:**
 
 * execute o seguinte comando no seu terminal:
-`$ git clone https://github.com/leticiaocr/cronometroJs.git `
+`$ git clone https://github.com/leticiaocr/calculadora.git `
 * abra a pasta que será  criada
 * abra o arquivo "index.html" com o navegador de sua preferência
 
