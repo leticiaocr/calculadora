@@ -30,9 +30,7 @@ Aqui estão as tecnologias utilizadas neste projeto.
 
 
 
-## Links
-  - Link para acesso: https://leticiaocr.github.io/calculadora/
-  
+## Links  
   - Repositório: https://github.com/leticiaocr/calculadora.git
 
   ## Autores
